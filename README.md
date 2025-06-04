@@ -12,7 +12,6 @@ This project leverages concepts from Evolutionary Game Theory (EGT) and recommen
 * [Usage](#usage)
 * [Results](#results)
 * [Contributing](#contributing)
-* [License](#license)
 
 ## Overview
 
