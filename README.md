@@ -1,7 +1,3 @@
-Here's a comprehensive README file for the GitHub repository [MarketManipulationDetection\_using\_EGT](https://github.com/MannShah0312/MarketManipulationDetection_using_EGT):
-
----
-
 # Market Manipulation Detection using Evolutionary Game Theory (EGT)
 
 This project leverages concepts from Evolutionary Game Theory (EGT) and recommender systems to detect manipulations in commodity markets. The current implementation focuses on the wheat market in Central India.
@@ -96,7 +92,3 @@ The model outputs indicators of potential market manipulations, highlighting ano
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your enhancements.
-
----
-
-For more details and to access the codebase, visit the [GitHub repository](https://github.com/MannShah0312/MarketManipulationDetection_using_EGT).
