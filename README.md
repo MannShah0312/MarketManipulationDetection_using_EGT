@@ -15,7 +15,8 @@ This project leverages concepts from Evolutionary Game Theory (EGT) and recommen
 
 ## Overview
 
-Commodity markets are susceptible to manipulative practices that can distort prices and affect stakeholders. This project aims to identify such manipulations by modeling market behaviors using Evolutionary Game Theory and validating findings through recommender system techniques.
+Commodity markets are susceptible to manipulative practices that can distort prices and affect stakeholders. This project aims to identify such manipulations by modeling market behaviors using Evolutionary Game Theory and validating findings through recommender system techniques. 
+The focus is on the wheat market in Central India, where historical data is analyzed to uncover patterns indicative of market manipulation.
 
 ## Methodology
 
